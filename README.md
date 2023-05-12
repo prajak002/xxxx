@@ -1,4 +1,4 @@
-# Phishing URL Detector by Invaders
+# Phishing URL Detector 
 
 Phishing URL Detector is the tool which is designed to find the phished url floating on the internet using machine learning. This application is build on Flask (micro-framework to built website powered by python), Sklearn to train model, Pandas, Numpy, etc.
 
@@ -24,4 +24,3 @@ or you can run it directly using flask, just type the command given below:
 flask run
 ```
 
-## Screenshots
